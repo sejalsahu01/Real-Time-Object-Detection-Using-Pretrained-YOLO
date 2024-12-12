@@ -43,7 +43,7 @@ cd Real-Time-Object-Detection-Using-Pretrained-YOLO
 python real_time_object_detection.py
 ```
 ---
-## Screenshots
+## Screenshot
 <img src="https://github.com/yash42828/YOLO-object-detection-with-OpenCV/blob/master/real-time-object-detection/real_time.gif">
 Notice how our deep learning object detector can detect not only a person, but also the sofa and the chair next to person — all in real-time!
 
