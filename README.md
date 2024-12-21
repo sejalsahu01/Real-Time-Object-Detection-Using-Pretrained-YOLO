@@ -1,7 +1,7 @@
 # Real-Time-Object-Detection-Using-Pretrained-YOLO
 Object detection using YOLO object detector
 
-### Detect objects in both images and video streams using Deep Learning, OpenCV, and Python.
+### Detect objects in real time using Deep Learning, OpenCV, and Python.
 
 Using YOLOv3 in this project, in particular, YOLO trained on the COCO dataset.
 
